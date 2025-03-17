@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm passionate about exploring the world of softwa
 
 ## About Me
 
-* 🔭 I’m currently delving into **["web development," "backend systems," "Smart Homes, IOT and IIOT," "cloud technologies," "container utility apps," etc. with Rust and Go mainly]**.
+* 🔭 I’m currently delving into **web development, backend systems, Smart Homes, IOT and IIOT, cloud technologies, container utility apps, etc. with Rust and Go mainly**.
 * 💡 Always eager to learn new technologies and improve my skills.
-* 💻 Interested in **["cloud security," "systems app development," "rustification," etc.]**.
+* 💻 Interested in **cloud security, systems app development, rustification, etc.**.
 * 😄 Enjoy problem-solving and collaborating with others!
-* ⚡ Fun fact: I enjoy **["3d simulation," "airplane watching," "physics," etc.]**.
+* ⚡ Fun fact: I enjoy **3d simulation, airplane watching, physics, etc.**.
 
 ## What You'll Find Here
 
@@ -22,7 +22,7 @@ My repositories showcase a variety of projects, including:
 
 ## Current Focus
 
-* 🎯 I’m currently working on **["a personal project to learn advanced React concepts," "contributing to a specific open-source project"]**.
+* 🎯 I’m currently working on **a personal project to learn advanced React concepts, contributing to a specific open-source project**.
 
 ## Let's Connect
 
@@ -46,4 +46,4 @@ If you're interested in contributing to any of my projects, feel free to:
 * 📝 Make your changes.
 * 🚀 Submit a pull request.
 -->
-Thank you for visiting my profile! 😊
+Have fun! 😊
