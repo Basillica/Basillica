@@ -20,10 +20,6 @@ My repositories showcase a variety of projects, including:
 * 🔬 **[An AWS-like step function implementation in Rust](https://github.com/Basillica/state-machine)**
   etc.
 
-## Current Focus
-
-* 🎯 I’m currently working on **a personal project to learn advanced React concepts, contributing to a specific open-source project**.
-
 ## Let's Connect
 
 * 💬 I talk about some of things that i build here **[on medium](https://basillica.medium.com/)**.
